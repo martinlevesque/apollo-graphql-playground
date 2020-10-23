@@ -127,6 +127,6 @@ server.installSubscriptionHandlers(httpServer);
 
 server.applyMiddleware({ app });
 
-httpServer.listen({ port: 4000 }, () =>
+httpServer.listen({ port: 80 }, () =>
   console.log(`🚀 Server ready at http://localhost:4000${server.graphqlPath}`)
 );

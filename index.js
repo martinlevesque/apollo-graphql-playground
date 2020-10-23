@@ -8,7 +8,7 @@ const pubsub = new PubSub();
 
 const POST_UPVOTED = 'POST_UPVOTED';
 
-// Construct a schema, using GraphQL schema language
+// Construct a schema, with GraphQL schema language
 
 // this could go close to the models
 

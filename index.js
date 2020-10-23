@@ -10,7 +10,7 @@ const POST_UPVOTED = 'POST_UPVOTED';
 
 // Construct a schema, using GraphQL schema language
 
-// this could go close to the
+// this could go close to the models
 
 const typeDefs = gql`
 

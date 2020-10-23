@@ -6,7 +6,7 @@ const http = require('http');
 
 const pubsub = new PubSub();
 
-const POST_UPVOTED = 'POST_UPVOTED';
+const POST_UPVOTED = 'POST_UPVOTED2';
 
 // Construct a schema, using GraphQL schema language
 
